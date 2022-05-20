@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sports-scheduler", "sports-scheduler\sports-scheduler.csproj", "{8ACBE80C-16DF-4749-A166-0BFCBD7C1AAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ACBE80C-16DF-4749-A166-0BFCBD7C1AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACBE80C-16DF-4749-A166-0BFCBD7C1AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACBE80C-16DF-4749-A166-0BFCBD7C1AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACBE80C-16DF-4749-A166-0BFCBD7C1AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D70ADA53-BAF0-4AFA-8EAA-4E70B9A61DF6}
+	EndGlobalSection
+EndGlobal
